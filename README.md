@@ -8,9 +8,12 @@ Kodzer.Games Metin2 Development Team.
 	New Target İnfo System
 		</li>
 		<li>
-	if more than 10 affectImage the new line. exp-http://prntscr.com/nmx9dx
+	if more than 10 affectImage the new line. exp-http://prntscr.com/nmx9dx<br> 
+	And affect real icon optimization. exp-http://prntscr.com/nmzrfe
 		</li>
-	
+		<li>
+	Fast dragonsoul refine system add. exp-http://prntscr.com/nmzruo
+		</li>
 </ul>
 
 <br></br>
