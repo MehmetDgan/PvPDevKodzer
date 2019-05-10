@@ -5,7 +5,7 @@ Kodzer.Games Metin2 Development Team.
 # Updates
  <ul>
 		<li>
-	New Target İnfo System
+	New Target İnfo System. exp-http://prntscr.com/nmzs9a
 		</li>
 		<li>
 	if more than 10 affectImage the new line. exp-http://prntscr.com/nmx9dx<br> 
