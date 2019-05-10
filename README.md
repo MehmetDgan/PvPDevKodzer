@@ -10,6 +10,7 @@ Kodzer.Games Metin2 Development Team.
 		<li>
 	if more than 10 affectImage the new line. exp-http://prntscr.com/nmx9dx
 		</li>
+	
 </ul>
 
 <br></br>
@@ -19,6 +20,9 @@ Kodzer.Games Metin2 Development Team.
 <ul>
 		<li>
 OfflineShop range system 
+		</li>
+		<li>
+	Arrow-Transmutation System -> Monster Source or Arkadia2 Source
 		</li>
 </ul>
 
