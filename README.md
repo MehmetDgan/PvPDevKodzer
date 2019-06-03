@@ -5,17 +5,20 @@ Kodzer.Games Metin2 Development Team.
 # Updates
  <ul>
 		<li>
-	New Target İnfo System. exp-http://prntscr.com/nmzs9a
+	New Target İnfo System. exp-https://prntscr.com/nmzs9a
 		</li>
 		<li>
-	if more than 10 affectImage the new line. exp-http://prntscr.com/nmx9dx<br> 
-	And affect real icon optimization. exp-http://prntscr.com/nmzrfe
+	if more than 10 affectImage the new line. exp-https://prntscr.com/nmx9dx<br> 
+	And affect real icon optimization. exp-https://prntscr.com/nmzrfe
 		</li>
 		<li>
-	Fast dragonsoul refine system add. exp-http://prntscr.com/nmzruo
+	Fast dragonsoul refine system add. exp-https://prntscr.com/nmzruo
 		</li>
 		<li>
-	Model Preview System Pet&Mount. exp-http://prntscr.com/nwt2d5
+	Model Preview System Pet&Mount. exp-https://prntscr.com/nwt2d5
+		</li>
+		<li>
+	Request auto cancel over time. exp-https://prntscr.com/nwt35o		
 		</li>
 </ul>
 
