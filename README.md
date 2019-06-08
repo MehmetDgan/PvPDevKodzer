@@ -20,6 +20,12 @@ Kodzer.Games Metin2 Development Team.
 		<li>
 	Request auto cancel over time. exp-https://prntscr.com/nwt35o		
 		</li>
+		<h3>
+	Sıralama Sistemleri		
+		</h3>
+	<li>
+		
+	</li>
 </ul>
 
 <br></br>
