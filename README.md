@@ -23,9 +23,8 @@ Kodzer.Games Metin2 Development Team.
 		<h3>
 	Sıralama Sistemleri		
 		</h3>
-	<li>
-		
-	</li>
+	<li>xd
+
 </ul>
 
 <br></br>
