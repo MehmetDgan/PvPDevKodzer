@@ -13,8 +13,12 @@ Kodzer.Games Metin2 Development Team.
 		<li>Player Block And U.T. exp-http://prntscr.com/nzdswn</li>
 		<li>Reborn System. exp-http://prntscr.com/nzdtlu</li>
 		<li>Special İnventory "K". exp-http://prntscr.com/nzdts8</li>
-		<li>Pet System And Auto Taking</li>
+		<li>Pet System And Auto Taking. exp-http://prntscr.com/nzdyra</li>
 		<li>inventory side biolog. exp-http://prntscr.com/nzdy2k</li>
+		<li>New Login Screen. exp-http://prntscr.com/nzecwe</li>
+		<li>Extra Slot and Official Bonus Table. exp-http://prntscr.com/nzee4b</li>
+		<li>4. stone slot. exp1-http://prntscr.com/nzeezz exp2-http://prntscr.com/nzefkd</li>
+		<li>Destroy and sell system. exp-http://prntscr.com/nzegf1</li>
 	<h3>Ranking Systems // First 10 Player	</h3>
 		<li>Guild Ranking System. exp-http://prntscr.com/nzdqkh</li>
 		<li>Player Ranking System. exp-http://prntscr.com/nzdqp9</li>
