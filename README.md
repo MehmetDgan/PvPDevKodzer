@@ -19,6 +19,11 @@ Kodzer.Games Metin2 Development Team.
 		<li>Extra Slot and Official Bonus Table. exp-http://prntscr.com/nzee4b</li>
 		<li>4. stone slot. exp1-http://prntscr.com/nzeezz exp2-http://prntscr.com/nzefkd</li>
 		<li>Destroy and sell system. exp-http://prntscr.com/nzegf1</li>
+		<li>Official Loading tip. exp-http://prntscr.com/nzhs8t</li>
+		<li>Official İtem Search. exp-http://prntscr.com/nzir33</li>
+		<li>Refine System. exp-http://prntscr.com/nzircu</li>
+		<li>Speed Skill Upg. exp-http://prntscr.com/nzirsy</li>
+		<li>Chest Drop Version. exp-http://prntscr.com/nzis0c</li>
 	<h3>Ranking Systems // First 10 Player	</h3>
 		<li>Guild Ranking System. exp-http://prntscr.com/nzdqkh</li>
 		<li>Player Ranking System. exp-http://prntscr.com/nzdqp9</li>
@@ -28,6 +33,22 @@ Kodzer.Games Metin2 Development Team.
 </ul>
 
 <br></br>
+# Fix
+
+<ul>
+	<li>ability to change flag while in group.</li>
+	<li>Fire ghost does not hit damage while on horse.</li>
+	<li>New Pet System Full fix.</li>
+</ul>
+<br><br>
+
+# Admins System
+
+<ul>
+	<li>Advanced ipurge system. exp-/ip all || inv || equip || ds || belt
+
+</li>
+</ul>
 
 # Errors
 
