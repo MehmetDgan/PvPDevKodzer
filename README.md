@@ -24,6 +24,9 @@ Kodzer.Games Metin2 Development Team.
 		<li>Refine System. exp-http://prntscr.com/nzircu</li>
 		<li>Speed Skill Upg. exp-http://prntscr.com/nzirsy</li>
 		<li>Chest Drop Version. exp-http://prntscr.com/nzis0c</li>
+		<li>Birth time Here and in Town exp-http://prntscr.com/nzpmvy</li>
+		<li>New Yang Gui. exp-http://prntscr.com/nzpu3h</li>
+		<li>Official Keyboard Settings. exp-http://prntscr.com/nzr5gf</li>
 	<h3>Ranking Systems // First 10 Player	</h3>
 		<li>Guild Ranking System. exp-http://prntscr.com/nzdqkh</li>
 		<li>Player Ranking System. exp-http://prntscr.com/nzdqp9</li>
@@ -58,20 +61,5 @@ OfflineShop range system
 		</li>
 		<li>
 	Arrow-Transmutation System -> Monster Source or Arkadia2 Source
-		</li>
-</ul>
-
-
-<br></br>
-# Future Updates
-<ul>
-		<li>
-		</li>
-</ul>
-
-<br></br>
-# Deleted Sistem
-<ul>
-		<li>
 		</li>
 </ul>
